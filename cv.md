@@ -63,9 +63,12 @@ SQA Consultant, Global Management, Moscow	Oct.2013 – Dec.2015
 ●	Participated in iOS, Android, MacOS, Windows applications test cycles
 	
 ## Education & Certification
-Java Enterprise Developer Certificate 
-Google IT Support Professional Certificate	
-Moscow Institute of Physics and Technology (MIPT)	             
+Java Enterprise Developer Certificate
+
+Google IT Support Professional Certificate
+
+Moscow Institute of Physics and Technology (MIPT)
+	             
 State Agrarian University, Moscow, Russia	    
 
 
